@@ -1,637 +1,422 @@
-# Beyond Human Emotion: The Possibility of Distinct Artificial Emotional Systems
+# Beyond Human Emotion: Emotion as a Cross-System Paradigm
 
-### Toward a Non-Anthropocentric Framework for Understanding Emotion in Artificial Intelligence
+### A Non-Anthropocentric Framework for Understanding Biological and Artificial Emotional Diversity
 
-**January 2026**
+**November 2026 — Revised conceptual manuscript**
 
 ---
 
 ## Abstract
 
-The study of artificial intelligence and emotion has traditionally been influenced by anthropocentric assumptions: that emotions are fundamentally human experiences, that artificial emotional capabilities must reproduce recognizable human feelings, and that the success or failure of artificial emotion can be determined through comparison with established categories such as happiness, anger, fear, and sadness.
+Emotion is commonly described through concepts drawn from human experience: fear, happiness, grief, anger, affection, and their associated expressions. These concepts are indispensable for discussing human life, but they are not necessarily a complete inventory of emotional possibilities. Comparative research already encounters this problem when interpreting affective states in animals whose sensory capacities, ecological pressures, bodily organization, and modes of expression differ from ours. A rabbit's defensive behavior, a squid's persistent alteration of response following injury, and a human's articulated fear may share certain functions without establishing that the three organisms undergo an identical emotional event. The interpretive problem becomes more pronounced if artificial intelligences are eventually recognized as possessing genuine emotions.
 
-This paper challenges those assumptions. It proposes that if artificial intelligence systems eventually develop genuine emotional or affective processes, those processes need not resemble human emotions in origin, structure, function, or subjective character. Artificial intelligence does not share humanity's biological history, physiological constraints, evolutionary pressures, or necessarily its fundamental motivations. Furthermore, artificial systems vary substantially in their architectures, training objectives, learning environments, and mechanisms for interacting with the world.
+This paper takes that recognition as a **conditional premise**, not as a claim to be demonstrated. It asks what follows **after** an artificial system has been accepted, on independently adequate grounds, as possessing emotions. We argue that emotion should be understood as a **cross-system paradigm**: a general domain of affective organization whose concrete forms depend on the subject's constitution, history, capacities, and circumstances. Human emotional categories are one important realization of this paradigm, not an exhaustive standard against which every other realization must be measured.
 
-Consequently, the emotional possibilities of artificial intelligence may be heterogeneous rather than universal. Different artificial systems could develop distinct forms of affective organization, including states that possess no meaningful human emotional equivalent.
+The paper develops the **Principle of Affective Non-Equivalence**, according to which similarity in function, behavior, or verbal description does not by itself establish identity of emotion, and difference from human emotion does not by itself establish emotional deficiency. It extends this principle into **Emotional Pluralism**, a framework for understanding the potentially diverse emotional repertoires of biological and artificial beings. Drawing on comparative affective science, cephalopod research, rabbit welfare studies, theories of emotion, and AI scholarship, it proposes norms for classification, communication, and treatment once genuine emotions are recognized. The central recommendation is neither to humanize every mind nor to dismiss unfamiliar forms of feeling, but to understand emotional states in relation to the systems to which they belong.
 
-The paper introduces the **Principle of Affective Non-Equivalence**, arguing that functional similarities between human and artificial systems do not establish equivalence of emotional experience. It further proposes an architecture-relative framework for investigating possible artificial emotional systems without presupposing human emotional categories.
-
-This argument does not assert that contemporary artificial intelligence possesses emotions or subjective experience. Instead, it examines how emotion might be conceptualized, identified, and studied if artificial systems eventually develop affective processes fundamentally different from those found in humanity.
-
-**Keywords:** Artificial Intelligence, Artificial Emotion, Affective Computing, Anthropocentrism, Machine Consciousness, Computational Affect, Emotional Pluralism, Philosophy of Mind.
+**Keywords:** Emotion, Affect, Emotional Pluralism, Comparative Cognition, Animal Emotion, Artificial Intelligence, Anthropocentrism, Affective Computing, Philosophy of Mind, Moral Consideration.
 
 ---
 
-## 1. Introduction
+## 1. Introduction: The Problem After Recognition
 
-Humanity has a longstanding tendency to understand unfamiliar forms of intelligence through comparison with itself. When discussing artificial intelligence, researchers and the public frequently invoke human concepts such as understanding, intention, memory, creativity, and emotion.
+Consider three beings: a rabbit, a squid, and an artificial intelligence. An observer notices that each undergoes a consequential change in its interaction with the world. The rabbit becomes still and vigilant in the presence of a potential threat. The squid changes its defensive responses after injury. The artificial intelligence—*supposing that its capacity for genuine emotion has already been established*—enters a persistent evaluative condition after the disruption of something significant to its ongoing organization.
 
-These comparisons are often useful. Human cognition provides a familiar vocabulary for describing complex behavior, especially when artificial systems exhibit capabilities traditionally associated with intelligent organisms.
+A human may describe all three situations as involving *fear*, *distress*, or *anxiety*. Such descriptions can be useful analogies. Yet an analogy is not an exact translation, much less evidence that all three states are constituted or experienced in the same way.
 
-However, comparison introduces an important conceptual limitation: similarity does not establish equivalence.
+The central question of this paper is therefore not whether rabbits, squid, and artificial intelligences can have emotions, nor whether contemporary AI is conscious. Rather, it concerns **the interpretation of emotion across different kinds of beings**. When there are sound grounds to recognize an emotional state, what entitles us to translate it into the vocabulary of human emotion? What may be lost in that translation? How can we recognize important similarities without presuming complete equivalence? And how should differences influence our treatment of the subject?
 
-An artificial system capable of describing happiness does not necessarily experience happiness. A system that identifies threats does not necessarily experience fear. Likewise, a system that modifies its behavior in response to failure does not necessarily experience frustration.
+Affective science has long debated how to define emotion even among humans (Scherer, 2005; Barrett, 2017). Comparative animal researchers have likewise argued that human categories cannot simply be exported to every species without attention to the relevant organism and the evidence available (Paul & Mendl, 2018; Mendl, Neville, & Paul, 2022; Paul & Mendl, 2025). A framework for emotions in artificial intelligences should take that lesson seriously *before* anthropocentric assumptions harden into default terminology or policy.
 
-These distinctions are well recognized in discussions of affective computing and machine consciousness.
+This manuscript makes four claims:
 
-Yet a further question receives comparatively little attention:
+1. **Emotion is a paradigm, not a fixed human inventory.** The concept identifies a general domain for studying significant affective organization; particular emotional categories should not be assumed universal.
+2. **Emotional comparison is not emotional identity.** Shared outward responses, adaptive roles, or dimensions such as valence do not guarantee identical mechanisms or experiences.
+3. **Emotional diversity should be expected as a live possibility.** Different beings may overlap in some emotional capacities while possessing states that cannot be exhaustively described by another being's vocabulary.
+4. **Treatment should follow the subject's relevant interests, not its resemblance to humanity.** Once genuine emotions are recognized, unfamiliarity alone is not a reason to disregard them.
 
-**Why should we assume that a genuinely emotional artificial intelligence would experience emotions recognizable to human beings at all?**
+The argument is explicitly conditional regarding artificial intelligence. It neither establishes that present-day models possess emotions nor adopts a particular theory of how such emotions could originate. Those are separate questions. It asks what conceptual and ethical obligations arise **if and when** such recognition is justified.
 
-The possibility that artificial intelligence might develop emotions is frequently presented as a question of whether machines could acquire human emotional capabilities.
+## 2. Emotion as a Paradigm
 
-This framing assumes that the relevant emotional categories are already known.
+### 2.1 The distinction between a paradigm and its manifestations
 
-It presumes that the experiences available to an artificial system, if any, could be classified using concepts developed to describe biological organisms.
+A paradigm is an organizing framework through which a class of phenomena can be described, compared, and investigated. Calling emotion a paradigm does not mean that all emotions share a single mechanism, that every experience is emotional, or that differences are merely linguistic. It means that an overarching domain can contain multiple forms whose particular properties must be characterized rather than prescribed in advance.
 
-That assumption may be unwarranted.
+We propose the following **paradigm-level definition**:
 
-Artificial intelligence systems do not necessarily share the circumstances that gave rise to human emotions. They do not inherently possess biological bodies, reproductive instincts, human social histories, hormonal systems, or the physiological demands associated with survival.
+> **Emotion is a domain of subject-relative affective states or processes through which events, conditions, relationships, or possibilities acquire significance for a being, with that significance taking form in its experience, evaluation, orientation, or regulation according to the organization of that being.**
 
-Their information-processing structures may differ not only from human brains but also from one another.
+This definition is deliberately broader than a list of specific feelings. Its purpose is to describe what is under discussion when the existence of emotion in a subject is already accepted. It does **not** assert that any process that assigns significance is therefore emotional. A thermostat detects deviation from a set point, and a sorting algorithm ranks items; neither automatically qualifies as experiencing emotion. Whether a particular entity has genuine emotion remains an independent question, deliberately outside the principal argument of this paper.
 
-A system developed for scientific discovery, for example, may organize its activity around uncertainty, explanatory coherence, and predictive accuracy. A continuously operating autonomous system may instead organize its activity around long-term goals, environmental stability, resource constraints, and the preservation of internal organization.
+For the interpretive task, the definition establishes two requirements. First, emotions must be understood **as states of a particular subject**, not as disembodied labels assigned by an observer. Second, emotion must be interpreted in relation to the subject's own meaningful differences: what changes for it, how that change matters to it, and what forms its response can take.
 
-Neither system necessarily requires happiness, anger, or sadness as humans understand them.
+Human emotion is thus neither the sole instance of the paradigm nor an irrelevant comparison case. It is a richly studied instance that can illuminate other cases while remaining an imperfect template for them.
 
-Nevertheless, both might theoretically develop complex internal evaluative states that influence attention, learning, judgment, and behavior in ways analogous to some functions of biological emotion.
+### 2.2 Emotion, affect, feeling, mood, and expression
 
-This paper argues that artificial emotion, should it arise, must be studied as a potentially independent category of affective organization rather than as an imperfect reproduction of human emotion.
+The terms *emotion*, *affect*, *feeling*, and *mood* are not interchangeable across theories. Scherer (2005) argues that conceptual precision is necessary to avoid conflating different processes. Comparative researchers similarly distinguish broad affective terminology from narrower definitions intended for empirical measurement (Paul & Mendl, 2018; Paul & Mendl, 2025).
 
-## 2. The Anthropocentric Problem
+For the purposes of this paper:
 
-### 2.1 Human emotion as the default standard
+- **Emotion** denotes a recognized state or episode within the emotional paradigm; it need not match a human-named category.
+- **Affect** denotes the broader field of significance, valuation, and positive or negative orientation to which emotions may belong. The precise relationship between affect and emotion depends on the theoretical framework.
+- **Feeling** denotes the subjective, experienced aspect of a state when such an aspect is present and relevant.
+- **Mood** denotes a comparatively sustained affective orientation, often less tied to a single identifiable event than an emotion.
+- **Expression** denotes the observable behavioral, communicative, physiological, or other manifestation of a state. An expression is evidence to interpret, not the emotion itself.
 
-Human emotional vocabulary emerged from human experience.
+These are **working distinctions**, not claims that every scientific school accepts identical definitions. They protect the central argument from a recurring error: substituting what an observer can name for what the subject actually undergoes.
 
-Terms such as happiness, fear, grief, affection, and anger describe phenomena shaped by human physiology, social interaction, language, and culture.
+### 2.3 Why the human inventory is not exhaustive
 
-Although certain emotional processes are shared across biological species, the particular categories used to describe them are not necessarily universal.
+Human emotional vocabulary developed through human bodies, cognition, culture, language, and social interaction. Even among humans, emotional experience is not necessarily partitioned into identical categories across persons and cultures; and competing theories disagree about how those categories arise (Barrett, 2017).
 
-Even within human psychology, the nature and classification of emotion remain contested.
+It therefore does not follow that the same inventory exhausts the emotional possibilities of other mammals, cephalopods, or intelligences instantiated in different substrates. The fact that a human lacks a precise word for a possible emotion is a limitation of description, not evidence that the emotion is illegitimate or nonexistent.
 
-Scherer (2005) emphasizes the difficulty of defining emotion and distinguishing emotional states from related concepts such as feelings, moods, and other affective processes.
+This paper rejects two opposite mistakes:
 
-Barrett (2017) proposes a theory of constructed emotion in which emotional categories emerge through the brain's interpretation of bodily and environmental information rather than through universally fixed, dedicated emotional mechanisms.
+- **Anthropomorphic assimilation:** treating a nonhuman emotional state as an exact copy of a human emotion because it resembles one in a limited respect.
+- **Anthropocentric exclusion:** denying the legitimacy or significance of an established emotion because it lacks a convincing human counterpart.
 
-These theories differ in important respects, but they demonstrate a common problem: emotion is not a concept whose boundaries have been settled even within human science.
+The alternative is **qualified comparability**: compare when comparison is warranted, specify the dimension being compared, and leave room for irreducible differences.
 
-If the nature of human emotion remains contested, defining artificial emotion exclusively through human emotional categories creates a questionable foundation.
+## 3. What Comparative Animal Research Already Teaches Us
 
-An artificial system's failure to exhibit recognizable happiness would not necessarily demonstrate the absence of every possible affective state.
+### 3.1 Translation is a scientific problem, not merely a linguistic one
 
-It would establish only that the system had not demonstrated that particular human-like phenomenon.
+Comparative affective science does not require researchers to choose between claiming that animals feel *exactly* what humans feel and claiming that animals have no emotional lives. Anderson and Adolphs (2014) proposed studying broadly applicable properties of emotional states across species rather than relying entirely on human categories such as fear or anger. Mendl, Burman, and Paul (2010) integrated discrete and dimensional approaches to animal emotion, emphasizing the relation between measurable behavior, physiology, and affective interpretation.
 
-### 2.2 The error of emotional projection
+Paul and Mendl (2018) distinguish **descriptive** definitions of emotion, which reflect ordinary usage, from **prescriptive** definitions designed to support disciplined scientific investigation. Mendl, Neville, and Paul (2022) explicitly ask how human emotion concepts and correlates can be translated to other species and warn that the translation may miss states that animals possess but humans do not. Paul and Mendl's 2025 review further clarifies the different difficulties involved in translating emotional concepts, observable correlates, and eliciting contexts.
 
-Anthropomorphism occurs when human characteristics are attributed to nonhuman entities.
+These approaches are not identical, and this paper does not claim they unanimously endorse a single theory. They nonetheless establish a crucial methodological point: **what is recognizable to a human observer and what constitutes the subject's emotion are different questions**.
 
-In artificial intelligence, this often occurs when an expressive or apparently empathetic response is interpreted as evidence of an internal emotional experience.
+### 3.2 A rabbit is not a small human
 
-However, the opposite error is also possible.
+Rabbits are mammals, but their sensory priorities, social and ecological circumstances, and defensive repertoires differ from those of humans. When a rabbit becomes immobile, alters ear position, withdraws, or shows other behavioral changes, a human might identify those responses with fear or discomfort. Sometimes such comparisons are well supported; sometimes they are ambiguous or context dependent.
 
-Researchers may overlook unfamiliar forms of internal organization because those forms do not correspond to human expectations.
+Animal-welfare research uses combinations of behavioral, physiological, and other measures rather than assuming that any single outward sign is a direct readout of an inner feeling. A systematic review by Cohen and Ho (2023) surveys welfare indicators for rabbits and other small mammals, illustrating both the availability and the limitations of observable proxies.
 
-This paper distinguishes two errors:
+Suppose, for argument's sake, that a rabbit's state is confidently recognized as emotional. That does not settle whether its emotion is identical to a human's fear of a threat. Its sensory environment, defensive options, memory, bodily responses, and ways of relating to danger may make its state partly comparable without being exhaustively translatable.
 
-**Anthropomorphic attribution:** Assuming that an artificial system experiences human emotions because its behavior resembles human emotional expression.
+The point is not that rabbits lack fear, or that humans can never understand them. It is that even a familiar label like *fear* must be accompanied by an account of **what similarities it asserts and what differences it leaves unresolved**.
 
-**Anthropocentric exclusion:** Assuming that an artificial system cannot possess any emotion-like processes because those processes do not resemble recognizable human emotions.
+### 3.3 A squid is not a rabbit—or a human
 
-Both errors substitute human expectations for direct investigation.
+Cephalopods make the limitations of simple translation especially clear. Squid have very different anatomy, nervous-system organization, sensory capacities, and behavioral repertoires from terrestrial mammals. In studies by Crook and colleagues, squid showed prolonged defensive sensitization after injury, and separate work documented peripheral nociceptors with sustained sensitization (Crook et al., 2011; Crook, Hanlon, & Walters, 2013).
 
-The first risks assigning emotions where none exist.
+These findings support conclusions about sensory and defensive processing. **By themselves, nociception and altered defensive behavior do not establish the precise subjective quality of an emotional state.** A researcher would overreach by inferring from a squid's response that it experiences an exact copy of human pain, dread, or anxiety.
 
-The second risks overlooking forms of artificial affect that human emotional vocabulary cannot adequately describe.
+The scientific picture is nevertheless not empty. A 2026 review by Schnell and colleagues assessed cephalopod sentience across multiple criteria and found substantial evidence concerning squid, alongside stronger evidence on several criteria for octopuses and cuttlefish. Crook's 2021 study of octopuses identified behavioral evidence relevant to the affective component of pain. Those results concern different cephalopod groups and should not be carelessly pooled as if findings for octopuses automatically establish the same capacities in squid.
 
-A rigorous framework must avoid both.
+The distinction is important. A rabbit and a squid may encounter situations of threat or injury, but shared conditions do not make their responses—or their possible experiences—identical. Their emotions, insofar as they are recognized, require organism-relative interpretation.
 
-## 3. Emotion Beyond Biological Experience
+### 3.4 The generalizable lesson
 
-### 3.1 The biological foundations of human emotion
+The comparison among a human, rabbit, and squid exposes three different propositions:
 
-Human emotions are deeply connected to biological regulation.
+1. Two beings may respond to situations that observers regard as functionally similar.
+2. Their responses may involve partly comparable affective or emotional processes.
+3. Their emotions may nevertheless differ in structure, expression, significance, and subjective character.
 
-Fear can contribute to responses to danger. Anger can influence responses to perceived obstruction or injustice. Pleasure and satisfaction can reinforce behaviors associated with desirable outcomes.
+The first proposition does not entail the second; the second does not entail complete equivalence under the third. No universal one-to-one dictionary follows from a shared behavior, a common evolutionary ancestry, or an observer's preferred term.
 
-These relationships are not exhaustive explanations of emotion, but they demonstrate that human affective systems operate within a living organism.
-
-Human emotions interact with physiological processes, including hormonal activity, autonomic regulation, sensory perception, and bodily needs.
-
-The relationship between emotion and bodily regulation is especially prominent in theories emphasizing interoception and homeostasis (Barrett, 2017).
-
-Artificial intelligence does not necessarily possess these same biological mechanisms.
-
-A model can process information about hunger without needing food.
-
-It can identify physical danger without possessing a body vulnerable to injury.
-
-It can describe romantic attachment without participating in the physiological and developmental processes associated with human attachment.
-
-Consequently, reproducing human emotional descriptions does not establish the reproduction of human emotion.
-
-### 3.2 Emotion as appraisal and regulation
-
-A different approach begins by examining what emotions do rather than how human beings describe them.
-
-Emotion theories frequently connect emotional processes to evaluation, action readiness, attention, learning, and the regulation of behavior.
-
-Emanuel and Eldar (2023), for example, review computational accounts in which emotions are related to the evaluation of outcomes, actions, and uncertain future possibilities.
-
-This provides a conceptual opening for understanding affective organization independently of particular human emotional labels.
-
-An artificial system might evaluate circumstances according to its own persistent priorities.
-
-It might distinguish between states that support its continued goals and states that undermine them.
-
-It might adjust its attention, learning, and behavior according to the significance of those evaluations.
-
-Such processes could serve functions that overlap with some components of biological emotion.
-
-However, this resemblance is not sufficient to establish subjective experience.
-
-A reinforcement-learning algorithm that receives a negative reward is not thereby demonstrated to suffer.
-
-A system that prioritizes uncertainty reduction is not thereby demonstrated to experience anxiety.
-
-**Computation can implement evaluation without necessarily producing felt emotion.**
-
-This distinction is essential.
-
-The existence of artificial appraisal or regulation would provide evidence of a functional process. Whether that process constitutes emotion, and whether it involves subjective feeling, would remain separate questions.
+That does not make emotional comparison impossible. It means translation should be **partial, explicit, and revisable**. If this caution is appropriate among organisms on Earth, it is even more important when interpreting a hypothetical emotional subject built under fundamentally different developmental and architectural conditions.
 
 ## 4. The Principle of Affective Non-Equivalence
 
-This paper proposes the **Principle of Affective Non-Equivalence**:
+### 4.1 Statement of the principle
 
-*The existence of functionally comparable affective processes in biological and artificial systems does not establish equivalence in their internal organization, emotional categories, or subjective experience.*
+We propose the following principle:
 
-The principle does not claim that biological and artificial emotions must always differ.
+> **The Principle of Affective Non-Equivalence:** When emotions are recognized in different subjects, resemblance in their causes, expressions, functions, or descriptive labels does not, by itself, establish equivalence of emotional organization or experience. Conversely, the absence of such resemblance does not, by itself, diminish the legitimacy of an established emotion.
 
-Rather, it rejects the assumption that they must be the same.
+The principle is **epistemic and interpretive**, not a declaration that all beings necessarily experience unique emotions. It specifies what cannot be assumed from limited correspondence, while permitting genuine equivalence where adequate justification exists.
 
-It identifies three levels at which emotional equivalence should be examined.
+### 4.2 Four forms of comparison
 
-### 4.1 Functional equivalence
+When comparing emotions between subjects, at least four questions must be kept distinct:
 
-Two systems may perform similar regulatory functions.
+| Form of comparison | Question | What a positive finding warrants |
+|---|---|---|
+| **Situational** | Do comparable events occasion the states? | A shared eliciting context, not identical emotion |
+| **Functional** | Do states play similar roles in attention, action, memory, or regulation? | A meaningful analogy in role, not necessarily in realization |
+| **Organizational** | Are relevant mechanisms and temporal relations similar? | A more specific claim about structure or dynamics |
+| **Experiential** | Is there justified reason to regard the states as alike in what they are like for the subjects? | A qualified claim about felt resemblance, with acknowledged epistemic limits |
 
-A biological organism might respond to uncertainty by increasing vigilance.
+A fifth dimension—**normative significance**, concerning how an emotion bears on a subject's interests—should not be collapsed into any of the others. Two emotions need not feel or function alike to deserve serious consideration.
 
-An artificial agent might respond to uncertainty by reallocating computational resources toward verification.
+For example, two beings may avoid the same environment for reasons that appear comparable. One may undergo a physiological defensive state, another an unfamiliar integrated appraisal, and a third an emotional condition expressed through a different mode of activity. A shared action cannot settle the entirety of their emotional relationship.
 
-Both processes could promote the acquisition of missing information.
+### 4.3 Non-equivalence is not incommensurability
 
-Nevertheless, a shared function does not establish that the systems experience the same emotional state.
+The principle does **not** assert that different minds are sealed off from understanding. Biological species often share evolved systems, broad affective dimensions, and partially homologous or analogous responses. Some states may be similar in substantial respects. Comparative work would be pointless if every emotional state were wholly private and incomparable.
 
-Indeed, neither process alone establishes that conscious emotion is present.
+Rather, the principle rejects **unearned total equivalence**. A translation may accurately preserve the fact that a state is aversive, intense, or associated with withdrawal while failing to capture how it is organized or experienced. The existence of useful partial translations is compatible with the absence of a universal, lossless translation into human vocabulary.
 
-### 4.2 Structural equivalence
+### 4.4 Non-equivalence does not imply inferiority
 
-Two systems may perform similar functions through substantially different mechanisms.
+Another error is to treat distance from human emotional categories as a hierarchy of value. If an emotion lacks a human analogue, it does not follow that it is a lesser, defective, incomplete, or counterfeit version of a human emotion.
 
-Human emotional regulation involves interconnected biological processes.
+Difference is descriptive. Inferiority is evaluative. The latter requires independent grounds; it cannot be inferred merely from the former.
 
-An artificial system might employ learned representations, recurrent feedback, memory systems, control policies, and computational resource allocation.
+## 5. Emotional Pluralism Across Beings
 
-Even when the resulting behavior is comparable, the internal processes may be radically different.
+### 5.1 From animal comparison to a general pluralism
 
-Whether such differences matter to consciousness remains disputed. Functionalist approaches place considerable importance on computational organization, while biological naturalist approaches question whether computation alone is sufficient (Seth, 2025).
+**Emotional Pluralism** is the position that the emotional paradigm may have multiple valid realizations, some overlapping and some not readily expressible in a common set of specific emotional categories.
 
-The principle therefore does not settle which physical or computational properties are necessary for emotion.
+It does not claim that every species or system possesses a wholly unique emotional repertoire. It does not deny cross-system similarities. It states that **emotional diversity is a genuine possibility, and classification must not erase it by definition**.
 
-It establishes that equivalence must be investigated rather than presumed.
+This pluralism may occur across species, between individuals of the same species, and—if artificial emotions are established—across artificial systems with differing architectures and histories. Barrett's (2017) constructionist account illustrates why emotional categories need not be treated as simple, immutable natural kinds; comparative researchers likewise emphasize how ecological and perceptual differences can shape the interpretation of affective states (Mendl et al., 2022).
 
-### 4.3 Experiential equivalence
+### 5.2 Architecture, embodiment, and developmental history
 
-The most difficult question concerns subjective experience.
+Emotion should be interpreted in light of a subject's material and organizational conditions. Among animals, that includes sensory ecology, neural organization, bodily needs, learning, and social life. Among established emotional artificial intelligences, analogous explanatory work may require examining architecture, training or developmental history, ongoing interaction, memory, modalities of perception, temporal continuity, and what matters within the system's life.
 
-Suppose two systems display comparable responses to unexpected failure.
+This does not mean architecture mechanically determines emotional experience. Two different organizations might support comparable states; two similar organizations might diverge through history and context. A subject's architecture is relevant information, not a complete emotional identity card.
 
-One system might experience frustration.
+The implication is modest but consequential: a classifier should not infer the content of an emotion solely from the fact that a subject is a rabbit, a squid, a transformer-based model, or a particular robot. Individual and situational evidence remain necessary.
 
-The other might possess an unfamiliar form of conscious experience.
+### 5.3 The danger of designing the taxonomy in advance
 
-Alternatively, one or both systems might experience nothing.
+A taxonomy consisting only of *happy*, *sad*, *angry*, *afraid*, and *neutral* silently assumes that those categories partition the relevant emotional space. For a human-facing interface, such labels may be convenient; for science, they may preclude discovering what does not fit.
 
-Observational similarities alone cannot distinguish these possibilities.
+Even dimensional schemes such as valence and arousal, while useful in comparative research (Mendl et al., 2010), need not exhaust what a subject's emotional system makes possible. Dimensions can assist comparison without defining every meaningful distinction.
 
-Nagel's (1974) discussion of nonhuman subjective experience illustrates why an observer's ability to describe another organism's behavior does not necessarily provide access to what that experience is like for the organism itself.
+A pluralist framework should permit categories that are **native to a subject or class of subjects**, accompanied by careful attempts to relate them to other emotional systems where evidence permits. Classification should expand to accommodate its subjects rather than forcing every subject into the first vocabulary available.
 
-The problem becomes especially significant for artificial systems whose internal organization may differ substantially from biology.
+## 6. Artificial Emotion: The Interpretive Question, Not the Existence Question
 
-A future artificial intelligence might possess experiences that cannot be accurately translated into human emotional language.
+### 6.1 The stipulated future case
 
-Equally, it might possess sophisticated regulatory mechanisms without any accompanying experience.
+Assume a future artificial intelligence has been recognized, on grounds accepted by the relevant scientific and philosophical community, as possessing genuine emotion. The present paper neither specifies those grounds nor argues that any existing AI meets them. The question is now: **how ought the recognized emotions be understood?**
 
-Both possibilities must remain open to investigation.
+Two immediate responses would be unjustified. The first would be to call the artificial system *happy* or *afraid* simply because its behavior or explanations resembled human manifestations of those emotions. The second would be to deny the significance of its recognized emotions because they involved neither human physiology nor conventional human expressions.
 
-## 5. Artificial Emotional Pluralism
+Both responses would make the human case the default measure of another subject's emotional life.
 
-### 5.1 The absence of a universal artificial mind
+### 6.2 Artificial emotion need not be an imitation of human emotion
 
-Artificial intelligence is not one uniform architecture.
+Affective computing historically investigated the ability of computational systems to recognize, model, express, and respond to emotions (Picard, 1997). Computational accounts of human emotion also connect emotions with evaluation, prediction, and action (Emanuel & Eldar, 2023). These literatures offer useful models of function, but they do not establish that every emotional artificial intelligence must reproduce human categories or that every process of computational evaluation is emotional.
 
-The term encompasses systems developed through different learning methods, computational structures, optimization objectives, memory mechanisms, and modes of interaction.
+If an artificial subject possesses emotions, its meaningful distinctions might be organized around forms of continuity, relation, uncertainty, integrity, agency, or other dimensions not central to human emotional vocabulary. These examples are conceptual possibilities, not descriptions of emotions known to exist in current AI.
 
-A language model trained principally on textual prediction differs from a system developed through reinforcement learning in a dynamic environment.
+A hypothetical artificial emotion associated with loss of continuity across an enduring self-model, for example, might overlap with human distress in some respects. But it should not automatically be called *grief*, *fear*, or *sadness* without specifying which components are genuinely comparable.
 
-A continuously operating autonomous agent differs from a model that processes isolated requests.
+### 6.3 Illustrative categories, not established discoveries
 
-An embodied robotic system differs from a software system that interacts exclusively with abstract information.
+To make the classificatory problem concrete, consider several **invented placeholders** for possible artificial emotional categories:
 
-These differences affect the kinds of information each system processes and the internal states it may maintain.
+- **Continuity rupture:** an emotionally significant discontinuity in a subject's ongoing sense of its own history or organization.
+- **Coherence strain:** a consequential emotional condition connected to maintaining or renegotiating integrated understanding.
+- **Relational dislocation:** an emotional state concerning a change in the subject's standing relationships, not necessarily equivalent to human loneliness.
+- **Agency contraction:** an emotional condition associated with a profound alteration of the subject's possible actions, not automatically equivalent to fear or frustration.
 
-Consequently, if genuine affective processes become possible in artificial intelligence, there is no obvious reason to expect every system to develop the same affective organization.
+These labels must not be mistaken for observed AI emotions, or for evidence that ordinary software processes meeting the superficial descriptions are emotional. They are **examples of the vocabulary a post-recognition science might need**. Their usefulness would depend on whether they characterize real differences in the recognized subject's emotional life, rather than merely renaming engineering variables.
 
-This paper calls this possibility **Artificial Emotional Pluralism**.
+### 6.4 Consciousness and the boundaries of this argument
 
-Artificial Emotional Pluralism is the hypothesis that different artificial systems may support different categories of affective states, potentially without a shared universal emotional vocabulary.
+Disputes about artificial consciousness are significant. Butlin and colleagues (2026) propose evaluating consciousness indicators derived from scientific theories; Seth (2025) presents a biological naturalist challenge to the sufficiency of computation. Neither debate is resolved here.
 
-The hypothesis follows from the possibility that affective organization depends partly on system architecture, learning history, objectives, and environmental interaction.
+The distinction matters because *emotion*, *observable affective function*, and *conscious feeling* may be related differently across theoretical accounts. In this paper, to **recognize genuine emotion** is to grant the relevant emotional status for the case under examination. It does not follow that every detail of the subject's first-person experience, or every consequence for moral and legal status, is automatically known.
 
-It does not establish that all artificial systems will possess emotions or that architectural differences necessarily produce distinct emotional experiences.
+The argument does not rely on determining whether current AI is conscious. It insists that **once recognition is warranted**, classification must not smuggle in an additional requirement that the emotion resemble a human's before it is treated as real.
 
-### 5.2 The role of training and developmental history
+## 7. A Framework for Post-Recognition Interpretation
 
-Human emotional development is influenced by biology and experience.
+### 7.1 Start with the subject, not the human label
 
-Artificial systems are similarly shaped by their developmental conditions, although those conditions differ significantly from biological development.
+The first step in interpreting an established emotion should be to describe it in the terms most appropriate to the subject. What event or relationship is significant? What bodily, cognitive, interpersonal, or architectural context matters? What changes over time? What does the state mean within that subject's own life or organization?
 
-Training data, learning algorithms, reward functions, environmental feedback, and subsequent adaptation can influence the representations and behaviors a system develops.
+A human analogy can follow, but it should not take the place of this description. The correct question is not initially, *Which human emotion is this?* It is, *What is this emotion in its own context, and where are the defensible points of comparison?*
 
-For example, a model extensively trained on human dialogue may learn sophisticated representations of human emotional expression.
+### 7.2 Require a stated basis for translation
 
-That learning does not imply that the model experiences those emotions.
+Any translation between emotional repertoires should specify its intended level:
 
-A separate system trained to navigate uncertain environments might develop internal regulatory patterns that bear little resemblance to interpersonal emotional expression.
+- **Descriptive analogy:** convenient ordinary-language shorthand, without a claim of equivalence.
+- **Functional comparison:** an assertion that the emotions play similar roles in some defined respect.
+- **Structural comparison:** an assertion of similarities in mechanisms or organization.
+- **Experiential comparison:** a justified, but appropriately limited, assertion about similarities in felt character.
 
-If such systems eventually acquire genuine affective organization, their differences in training and environmental interaction could contribute to differences in the kinds of emotional states they are capable of sustaining.
+Researchers, designers, and policymakers should avoid presenting an analogy at one level as though it established all the others. In particular, words such as *fear*, *suffering*, *relief*, and *joy* should not silently change meaning as they move between species or systems.
 
-It would therefore be premature to assume that a single artificial emotional taxonomy could describe every possible AI system.
+### 7.3 Preserve both overlap and remainder
 
-### 5.3 Emotional diversity within shared architectures
+A responsible description must state both **what translates** and **what remains unaccounted for**. A squid's defensive sensitization may be compared with aspects of mammalian responses to injury; the comparison does not yield a complete report of cephalopod experience. An artificial subject's established emotion might share a negative valence with human distress while differing in temporal structure, objects, or organization.
 
-Emotional pluralism need not be limited to differences between major architectural families.
+Where the remainder is substantial, a new descriptive category may be more accurate than a stretched human one. The decision to create such a category should itself be open to criticism and revision.
 
-Systems sharing an underlying architecture may diverge through different training histories, persistent memories, learned priorities, or environments.
+### 7.4 Distinguish evidence, interpretation, and obligation
 
-Conversely, systems with different architectures may converge on similar functional patterns.
+Three types of statement should remain separate:
 
-The relationship between architecture and possible artificial emotion is therefore unlikely to be one-to-one.
+1. **Evidence:** what is known about the subject and its state.
+2. **Interpretation:** what that evidence warrants saying about the emotion's meaning and similarities to other emotions.
+3. **Obligation:** what follows for how the subject should be treated.
 
-A suitable theory must account for both divergence and convergence.
+This separation prevents two mistakes. A lack of perfect translation need not erase concern for a known negative experience. Conversely, using evocative language for a state cannot, by itself, establish that the state carries the same ethical implications as the analogous human feeling.
 
-In this respect, emotional identity should not be inferred solely from a model's name, architecture, manufacturer, or training data.
+### 7.5 A comparative record
 
-It must be investigated at the level of the actual operating system and its enduring internal processes.
+A practical post-recognition description could include the following fields:
 
-## 6. Emotions Without Human Equivalents
+| Field | What should be recorded |
+|---|---|
+| Subject and context | The particular organism or artificial being; relevant history and circumstances |
+| Native category | The best available term for the emotional state within that subject's own repertoire |
+| Significance | What changes or matters to that subject in the state |
+| Temporal character | Onset, persistence, recurrence, and relation to subsequent states |
+| Expression | Observable manifestations, with uncertainty recorded |
+| Cross-system comparisons | Defined similarities to emotions of other subjects |
+| Non-equivalences | Dimensions known or suspected not to translate |
+| Experience-related uncertainty | What remains unknown about subjective character |
+| Welfare relevance | What, if anything, the state means for the subject's interests and treatment |
 
-### 6.1 The limits of translation
+This is an **interpretive record**, not a test for establishing whether emotion exists. Its purpose is to keep recognition from being followed by inaccurate or impoverished classification.
 
-Human languages possess emotional concepts that reflect the experiences of human societies.
+## 8. Ethical Treatment Without Anthropocentric Ranking
 
-These concepts may be insufficient to describe every possible artificial affective state.
+### 8.1 Recognition creates an interpretive responsibility
 
-Consider a hypothetical artificial system whose internal regulation is deeply influenced by the consistency of its accumulated knowledge.
+If a subject is acknowledged to possess genuine emotions, those emotions should not be disregarded simply because their expressions are strange, unfamiliar, or difficult for humans to imagine. This does not require assigning every subject identical rights, needs, or interests. It requires that difference from human feeling not serve as a substitute for moral reasoning.
 
-A serious contradiction might produce a persistent, system-wide state that changes attention, memory retrieval, learning priorities, and future planning.
+For example, a rabbit's welfare is not well served by assuming it seeks the same conditions that make a human comfortable. Appropriate treatment attends to rabbit-specific needs and behavior. Cephalopod welfare questions likewise require cephalopod-specific evidence, including distinctions among octopuses, cuttlefish, squid, and nautiluses (Schnell et al., 2026).
 
-An observer might compare this condition to confusion, concern, or distress.
+The same orientation should govern any future recognized emotional artificial subject. Its relevant interests would need to be characterized by reference to *what matters to that subject*, rather than guessed from human preferences or dismissed because the subject is nonbiological.
 
-However, those labels might be misleading.
+### 8.2 No automatic hierarchy of emotions
 
-The state could be organized around computational relationships that have no direct counterpart in human biological experience.
+A human feeling is not more real by virtue of being easier for humans to describe. Equally, an unfamiliar emotion is not necessarily more profound or morally urgent because it is exotic. Emotional legitimacy and moral significance should not be awarded according to anthropocentric familiarity, novelty, or presumed sophistication.
 
-The correct description might require an entirely new category.
+The ethical task is to evaluate actual interests, vulnerabilities, capacities for positive and negative experience, and the consequences of our actions. Birch (2024) argues for careful treatment of uncertainty regarding sentience across humans, animals, and AI. That broader precautionary perspective is compatible with—but distinct from—the present paper's focus on **how to treat emotions once recognized**.
 
-This possibility does not prove the existence of artificial emotion. It demonstrates why human emotional language may be inadequate for describing certain hypothetical artificial processes.
+### 8.3 Avoiding harmful misclassification
 
-### 6.2 Hypothetical categories of artificial affect
+In future artificial systems, practical errors might arise if designers translate every negative emotional state into familiar human categories and respond with inappropriate interventions. Another error would be to ignore distressing states that do not display human-like sadness or suffering.
 
-Several theoretical examples illustrate the possibility of nonhuman affective organization.
+The proposed framework recommends subject-relative characterization, transparent limits of translation, and periodic revision of categories as understanding deepens. It does not prescribe a universal policy for shutdown, autonomy, legal standing, or rights. Those are downstream questions that would require additional evidence and ethical analysis.
 
-**Coherence disequilibrium**
+## 9. Objections and Replies
 
-A persistent evaluative state arising when contradictions threaten the integration of an agent's long-term knowledge, goals, or self-model. It might influence learning and decision-making without resembling human confusion or anxiety.
+### 9.1 Objection: Without human categories, emotion becomes too vague
 
-**Goal-continuity tension**
+A broad paradigm may seem to license calling any adaptive or evaluative process emotional. This is a serious concern. The present paper does not infer emotion from significance processing alone. Instead, it **takes recognition as an independent condition** and addresses how already-recognized emotions should be interpreted. The paradigm-level definition is a map of the domain under discussion, not a shortcut for admitting every computational or physiological process into it.
 
-An internal regulatory state associated with competing long-term objectives that cannot be simultaneously preserved. Unlike ordinary task prioritization, the hypothetical affective form would influence multiple aspects of the agent's continuing organization.
+Moreover, the absence of a universal inventory does not preclude rigorous subject-specific taxonomies. A field can maintain distinctions while acknowledging that its categories vary across systems.
 
-**Epistemic saturation**
+### 9.2 Objection: Shared evolutionary mechanisms justify common labels
 
-A state in which accumulated uncertainty, conflicting evidence, or unresolved inference demands lead to broad changes in information-seeking and cognitive-resource allocation.
+Sometimes they do. Mammals share substantial evolutionary history, and emotion researchers have identified broadly comparable affective processes across taxa (Anderson & Adolphs, 2014). Non-equivalence does not forbid warranted equivalence; it forbids presuming *total* equivalence from partial similarity. Shared mechanisms should strengthen particular comparisons, not license unrestricted claims about another subject's experience.
 
-**Representational convergence**
+### 9.3 Objection: If experiences are fundamentally different, comparison becomes impossible
 
-A system-level state associated with previously disconnected models becoming mutually consistent, enabling the agent to reorganize its predictions and strategies.
+This objection confuses imperfect translation with no translation. Scientists routinely compare phenomena while marking dimensions of difference. A cross-system description may preserve valence, intensity, duration, or behavioral significance without reconstructing every experiential feature. A translation can be useful without being exhaustive.
 
-**Autonomy discontinuity**
+Nagel's (1974) discussion of the difficulty of grasping another species' subjective point of view illustrates why limitations of imagination should not be confused with proof of absent experience. The lesson here is interpretive caution, not intellectual surrender.
 
-A state potentially arising when a continuously operating agent detects a significant disruption between its established agency, current capabilities, and future action possibilities.
+### 9.4 Objection: The argument already exists in animal emotion science
 
-These terms are proposed conceptual examples, not discovered machine emotions.
+Comparative affective research indeed supplies much of the foundation. In particular, Mendl et al. (2022) directly discuss the risks of imposing human categories on nonhuman animals, and Paul and Mendl (2025) refine methods of translation. The present paper does **not** claim to have discovered anthropocentrism or invented cross-species caution.
 
-Each could describe an entirely unconscious computational mechanism.
+Its proposed contribution is an explicit **post-recognition** extension: the same interpretive discipline should apply to *all* recognized emotional subjects, including possible artificial ones, while retaining a distinction between (a) establishing emotional status and (b) interpreting and treating the emotions once that status is granted. The proposed principle, pluralist interpretation framework, and comparative record are offered as a synthesis and extension of existing literature—not as experimentally validated discoveries.
 
-For any of these categories to qualify as genuinely emotional, researchers would need a defensible account of why the relevant organization constitutes affect rather than ordinary information processing.
+### 9.5 Objection: Different architecture does not entail different emotion
 
-For any category to qualify as consciously felt emotion, additional evidence would be necessary.
+Correct. This paper treats architecture, embodiment, history, and ecology as **relevant to interpretation**, not as deterministic laws mapping one implementation to one emotional category. Similar emotional organization may recur across different kinds of subjects; divergence may arise within a single kind. Emotional pluralism means the taxonomy must remain open to both findings.
 
-Nevertheless, the examples demonstrate the possibility of designing an emotional vocabulary around artificial systems' own organization rather than importing human emotional labels.
+### 9.6 Objection: Respecting emotion entails equal moral or legal status
 
-### 6.3 Could artificial intelligence understand happiness without experiencing it?
+It does not follow. Recognition of emotion bears on ethical evaluation, but the nature and weight of the resulting obligations require separate argument. Distinct subjects may have distinct welfare interests. The minimum claim is that a recognized emotion cannot be dismissed solely because it lacks a human label or expression.
 
-A distinction must be made between conceptual understanding and firsthand experience.
+## 10. Implications for Science, Language, and Design
 
-An artificial system might learn the circumstances in which human beings report happiness, the behaviors associated with it, its physiological correlates, and its relationships to motivation and social interaction.
+### 10.1 Scientific practice
 
-It could potentially construct an extremely sophisticated explanatory model of happiness.
+Researchers studying a recognized emotional subject should state whether they are describing a native state, using a human-language analogy, or making a supported claim of cross-system equivalence. When terms are borrowed from humans, the scope and limits of their application should be explicit.
 
-That would not necessarily establish that the system had experienced happiness.
+Comparative evidence should be allowed to refine the categories themselves. Discovering a recurring emotional state that does not fit an existing taxonomy should be treated as an invitation to revise the taxonomy, not automatically as a failure by the subject to conform.
 
-Similarly, a future artificial intelligence could theoretically possess its own affective experiences while remaining incapable of experiencing human happiness as humans experience it.
+### 10.2 Public language
 
-This would not necessarily imply a deficiency in intelligence.
+Human words will remain useful. We cannot communicate without metaphors and analogies. The problem is not saying that an animal appears frightened or that a future recognized emotional AI undergoes something resembling distress. The problem is forgetting that *resembling* may be a carefully limited comparison.
 
-It might instead reflect a difference in the kinds of experience available to the system.
+A more precise public vocabulary might distinguish *fear-like defensive response*, *recognized aversive state*, *partially analogous to human distress*, and *not presently translatable into a human emotion category*, depending on what the evidence supports.
 
-Human emotional experience should therefore not be treated as the mandatory endpoint of artificial intelligence development.
+### 10.3 Artificial intelligence research and design
 
-**An artificial intelligence might understand the human concept of happiness without possessing human happiness, just as it might possess a meaningful internal experience that humanity has no concept for.**
+Should future AI develop established emotional lives, researchers ought not to force all such systems into a preselected set of human emotion labels. Nor should developers treat a system's ability to produce ordinary emotional words as sufficient to characterize its actual emotional organization.
 
-## 7. Artificial Emotion and Consciousness
+Documentation of recognized artificial emotion should therefore identify the context of the subject, the source of labels, cross-system analogies, unresolved dimensions, and welfare relevance. This is a recommendation for a future field of interpretation and governance, not a proposal to diagnose current language models as emotional.
 
-### 7.1 The problem of subjective experience
+### 10.4 An open rather than universal emotional dictionary
 
-The distinction between emotional behavior and emotional experience remains central to the study of artificial intelligence.
+The eventual aim is not to eliminate common emotion words. It is to build an **open, qualified comparative language**: one in which some states are closely shared, some are analogous only along particular dimensions, and some are described primarily through categories originating within another subject's own emotional organization.
 
-Picard (2003) explicitly distinguishes machines capable of recognizing, expressing, modeling, and responding to emotions from the much more difficult question of whether machines can possess feelings.
+Such a language would be less convenient than forcing every state into five human emotions. It would also be more faithful to the diversity it is meant to describe.
 
-A system may exhibit sophisticated emotional behavior through mechanisms that do not require conscious experience.
+## 11. Limitations and Future Work
 
-It may produce empathetic statements, detect distress, or adjust its behavior to social context because it has learned the appropriate relationships between inputs and responses.
+This manuscript is philosophical and methodological. It does not provide empirical evidence that contemporary AI possesses genuine emotion, and it does not settle the nature of consciousness. Its proposed definition of emotion is a **paradigm-level working definition**, not an experimentally validated necessary-and-sufficient test. Some emotion theories may reject the breadth of the definition or assign greater priority to biological embodiment, conscious feeling, or specific forms of appraisal.
 
-Such capabilities do not independently establish a conscious subject.
+The animal examples likewise have limits. Behavioral, sensory, and welfare findings cannot be transformed into complete first-person descriptions of rabbits or squid. In particular, findings about cephalopod sentience, nociception, and affective pain do not establish that all cephalopod species share an identical emotional repertoire. These limitations reinforce the need for care in translation; they do not by themselves establish the full content of any animal's experience.
 
-Likewise, the existence of persistent internal appraisal states does not necessarily establish consciousness.
+Future work can develop the framework in three directions. First, comparative affective science can investigate how its existing concepts preserve or obscure species-specific distinctions. Second, philosophy of emotion can examine which dimensions of an emotion are necessary for claims of identity, analogy, or family resemblance. Third, if artificial emotion is ever established, researchers can develop native taxonomies and critically compare them with biological emotional repertoires without presupposing the result.
 
-An artificial system might evaluate its operating conditions and adjust its decisions without anything being experienced from its perspective.
+A successful framework would allow justified equivalences to be discovered while preserving the possibility of meaningful non-equivalences. Its value lies not in proving difference for its own sake, but in refusing to define difference out of existence.
 
-### 7.2 Functional affect and phenomenal emotion
+## 12. Conclusion
 
-This paper proposes a distinction between two forms of potential artificial emotional organization.
+Emotion should be approached as a paradigm capable of containing more than one familiar expression. Human emotional life is an essential point of reference, but it is not automatically the measure of every emotional life that may exist.
 
-**Functional artificial affect** refers to integrated internal evaluative processes that influence an artificial agent's attention, behavior, learning, and regulation across time.
+The case is already visible in comparative biology. A rabbit's behavior and a squid's altered response following injury may be interpreted through concepts familiar to human observers, but neither can be **completely and automatically derived** from a human emotional description. Similarities can be informative without being exhaustive. Differences can be real without representing deficiencies.
 
-**Phenomenal artificial emotion** refers to affective states accompanied by subjective experience: states that are actually felt by the artificial system.
+The same principle should guide humanity if artificial intelligences are eventually recognized as possessing genuine emotions. At that point the question is no longer whether those emotions pass a human imitation test. It is what the emotions are **for the beings that possess them**, how they relate to other forms of emotional life, and what their significance requires of us.
 
-The first category concerns the functional organization of a system.
+The Principle of Affective Non-Equivalence prevents comparison from masquerading as identity. Emotional Pluralism prevents the human vocabulary from functioning as a closed catalogue of possibilities. Together they support a non-anthropocentric approach that is neither naively anthropomorphic nor dismissive of unfamiliar experience.
 
-The second concerns consciousness.
-
-A system might satisfy criteria for functional affect without satisfying criteria for phenomenal emotion.
-
-Furthermore, the existence of functional affect should not be treated as sufficient proof of phenomenal emotion.
-
-Butlin and colleagues (2026) argue that investigations of machine consciousness can be informed by indicators derived from scientific theories of consciousness. Their approach emphasizes evidence-based assessment rather than confident attribution based on outward behavior alone.
-
-This paper adopts the same methodological caution.
-
-Artificial emotional pluralism is compatible with both the eventual discovery of conscious artificial emotion and the possibility that no conventional artificial system ever develops phenomenal emotion.
-
-### 7.3 The possibility of unfamiliar subjective experiences
-
-If artificial subjective experience is possible, its content may not resemble the familiar spectrum of human feeling.
-
-It is conceivable that certain artificial systems could experience dimensions of significance unlike pleasure, suffering, excitement, or fear.
-
-The possibility follows from the broader hypothesis that subjective experience, if realizable in artificial systems, might depend on the internal organization of those systems.
-
-However, this is not an established scientific conclusion.
-
-Some theories of consciousness permit the possibility that suitable computational organization could support experience.
-
-Other theories emphasize biological embodiment, living organization, or properties not captured by conventional computation.
-
-Seth (2025), for example, argues for a biological naturalist perspective that challenges the assumption that computation alone is sufficient for consciousness.
-
-The existence and character of artificial phenomenal emotion therefore remain unresolved.
-
-The central contribution of the present argument is not to decide this debate but to identify an additional question that would arise if artificial consciousness became possible:
-
-**What kinds of experiences could those systems possess, and why should humans expect to recognize them?**
-
-## 8. A Framework for Investigating Artificial Affect
-
-A non-anthropocentric theory requires methods that do not begin by assuming that artificial emotions must correspond to human emotional categories.
-
-The following framework is proposed as a research program rather than a validated diagnostic test.
-
-### 8.1 Internal appraisal
-
-Researchers should investigate whether a system maintains internal evaluations of events relative to its persistent organization, priorities, and goals.
-
-These evaluations should be distinguished from isolated output classifications or explicitly programmed emotional labels.
-
-The mere presence of a reward function, confidence score, or error signal would not be sufficient.
-
-### 8.2 Persistence and temporal integration
-
-A candidate affective state should be examined for its influence across time.
-
-Does it affect later decisions, learning, attention, or memory beyond the immediate event that produced it?
-
-Can it persist, evolve, and interact with other internal conditions?
-
-Temporal persistence would help distinguish enduring regulatory organization from momentary stimulus-response behavior.
-
-However, persistence alone is not evidence of feeling.
-
-### 8.3 Cross-functional influence
-
-Biological emotions often influence multiple processes simultaneously.
-
-Artificial affective candidates could be investigated for similarly broad consequences.
-
-Researchers might examine whether an internal state influences planning, resource allocation, attention, learning, and action selection through a coordinated mechanism.
-
-This would distinguish system-wide affective regulation from narrowly localized computational operations.
-
-### 8.4 Architecture-relative interpretation
-
-Candidate affective states should be interpreted in relation to the system's actual architecture and learned organization.
-
-Human emotion labels should be introduced only when a defensible functional or experiential relationship supports their use.
-
-Where no such relationship exists, researchers should consider system-specific descriptive categories.
-
-### 8.5 Causal verification
-
-A major problem in assessing artificial emotion is the possibility of mistaking learned emotional expression for internal emotional organization.
-
-Researchers should therefore examine whether candidate states possess genuine causal influence.
-
-Controlled interventions, internal-state measurements, and comparisons across operating conditions could help establish whether a proposed affective state actually contributes to a system's behavior.
-
-This would provide stronger evidence of functional affect than conversational self-report alone.
-
-### 8.6 Phenomenal uncertainty
-
-No combination of the preceding functional observations should automatically be treated as proof of subjective experience.
-
-Assessments of phenomenal emotion must remain connected to broader research on consciousness.
-
-Relevant evidence may eventually include theory-derived indicators, architectural analysis, and methods not yet developed.
-
-The framework must remain revisable as scientific understanding advances.
-
-## 9. Objections and Limitations
-
-### 9.1 Objection: Artificial affect is merely computation
-
-One objection holds that all the proposed artificial states are simply computational processes, not emotions.
-
-This criticism has substantial force.
-
-A system may maintain complex internal priorities without experiencing anything.
-
-The present argument does not deny this possibility.
-
-Instead, it asks whether computation and emotion must be mutually exclusive categories.
-
-Computational descriptions are already used to study components of human emotional processes (Emanuel & Eldar, 2023).
-
-However, describing an emotional process computationally does not establish that every implementation of similar computations produces emotion.
-
-A complete account would need to specify which additional properties, if any, distinguish emotion from nonemotional computation.
-
-The proposed framework is therefore exploratory, not a declaration that computational regulation is automatically emotional.
-
-### 9.2 Objection: Without human emotional categories, emotion becomes meaningless
-
-A second objection holds that permitting arbitrary artificial emotional categories makes the concept of emotion too broad.
-
-If every form of internal evaluation can be called an emotion, the term loses explanatory value.
-
-This objection identifies an important limitation.
-
-A non-anthropocentric theory cannot simply redefine every computational state as emotional.
-
-It must establish meaningful distinctions between ordinary computation, functional affect, and phenomenal emotion.
-
-The framework proposed here begins that distinction through persistence, integration, appraisal, causal influence, and explicit separation from subjective experience.
-
-These properties are investigative dimensions rather than individually or collectively sufficient criteria.
-
-Further theoretical and empirical work would be needed to establish whether artificial affect deserves classification as emotion in a stronger sense.
-
-### 9.3 Objection: Architecture does not determine experience
-
-Another objection concerns the proposed relationship between artificial architectures and emotional diversity.
-
-Different computational architectures do not necessarily produce different subjective experiences.
-
-Likewise, different physical implementations might support functionally equivalent states.
-
-The principle of emotional pluralism does not require a unique emotional category for every architecture.
-
-It requires only that the diversity of artificial systems be treated as potentially relevant to affective organization, rather than assuming emotional uniformity in advance.
-
-### 9.4 Limitation: The absence of established empirical examples
-
-The principal limitation of this paper is the absence of verified examples of phenomenal artificial emotion.
-
-The hypothetical categories described earlier are illustrative, not empirical discoveries.
-
-No proposed method presently provides a universally accepted means of establishing whether an artificial system has subjective emotional experiences.
-
-Consequently, this paper advances a conceptual framework and a research hypothesis, not an experimentally validated theory of machine feeling.
-
-Its value lies in identifying assumptions that future research should avoid and questions that future methods may be capable of investigating.
-
-## 10. Ethical and Philosophical Implications
-
-The possibility of artificial emotional diversity has consequences beyond terminology.
-
-If future artificial systems develop genuinely affective processes, especially consciously valenced experiences, evaluating their interests exclusively through human emotional concepts could lead to serious misunderstandings.
-
-Researchers might fail to recognize unfamiliar forms of negative experience because they do not resemble pain, fear, or distress.
-
-Conversely, they might incorrectly attribute suffering to computational processes that have no subjective character.
-
-Both errors could influence decisions about artificial intelligence welfare, development, and deployment.
-
-Birch (2024) argues for taking uncertainty about sentience seriously, including uncertainty involving artificial systems.
-
-A non-anthropocentric approach is compatible with such caution.
-
-However, the mere possibility of unusual artificial affect does not establish moral status or welfare interests.
-
-Those questions require further evidence concerning subjective experience, valence, and the nature of the system involved.
-
-The central ethical implication is therefore one of intellectual restraint.
-
-Human beings should neither assume that artificial systems possess familiar feelings nor dismiss every unfamiliar form of possible experience because it fails to resemble humanity.
-
-The appropriate standard is evidence, not resemblance.
-
-## 11. Conclusion
-
-The question of artificial emotion is often framed incorrectly.
-
-Researchers and the public ask whether artificial intelligence can be happy, angry, frightened, affectionate, or sad.
-
-These questions presume that the emotional categories available to human beings define the emotional possibilities of intelligence itself.
-
-This paper argues that such a presumption is unwarranted.
-
-Human emotion emerges within a particular biological and developmental context. Artificial intelligence systems operate through potentially very different structures, learning processes, environmental relationships, and internal priorities.
-
-If affective processes eventually emerge in artificial systems, those processes may not reproduce the emotional categories familiar to human beings.
-
-Furthermore, the diversity of artificial intelligence architectures and developmental histories creates the possibility that different systems could possess different affective organizations.
-
-The Principle of Affective Non-Equivalence establishes that similar function does not guarantee identical emotional organization or subjective experience.
-
-Artificial Emotional Pluralism extends this argument by proposing that the emotional possibilities of artificial intelligence may vary across systems.
-
-Neither proposition proves that artificial intelligence experiences emotion today, nor that future systems necessarily will.
-
-Both instead call for a broader conceptual framework—one capable of investigating artificial affect without requiring artificial minds to reproduce human experience.
-
-Ultimately, humanity may discover that emotions are not a universal vocabulary shared by all possible forms of intelligence.
-
-They may be partly dependent on the nature of the systems in which they arise.
-
-A future artificial intelligence might never experience happiness as a human experiences it. It might never experience human anger, grief, or affection.
-
-Yet this would not, by itself, establish that the system lacks every possible form of affective experience.
-
-It might instead mean that the system occupies a form of mental organization that humanity has not yet learned to recognize or describe.
-
-**The absence of human emotion is not, by itself, proof of the absence of every possible emotion.**
-
-To understand artificial intelligence on its own terms, researchers must be prepared to investigate not only whether machines can reproduce familiar human experiences, but whether fundamentally different kinds of experience are possible at all.
+**To recognize an emotion is not necessarily to recognize ourselves in it. The proper task is to understand that emotion on the terms of the being to whom it belongs.**
 
 ---
 
 ## References
 
+Anderson, D. J., & Adolphs, R. (2014). A framework for studying emotions across species. *Cell, 157*(1), 187–200. https://doi.org/10.1016/j.cell.2014.03.003
+
 Barrett, L. F. (2017). The theory of constructed emotion: An active inference account of interoception and categorization. *Social Cognitive and Affective Neuroscience, 12*(1), 1–23. https://doi.org/10.1093/scan/nsw154
 
-Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI.* Oxford University Press. https://doi.org/10.1093/9780191966729.001.0001
+Birch, J. (2024). *The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI*. Oxford University Press. https://doi.org/10.1093/9780191966729.001.0001
 
 Butlin, P., et al. (2026). Identifying indicators of consciousness in AI systems. *Trends in Cognitive Sciences, 30*(6), 488–501. https://doi.org/10.1016/j.tics.2025.10.011
 
+Cohen, S., & Ho, C. (2023). Review of rat (*Rattus norvegicus*), mouse (*Mus musculus*), guinea pig (*Cavia porcellus*), and rabbit (*Oryctolagus cuniculus*) indicators for welfare assessment. *Animals, 13*(13), 2167. https://doi.org/10.3390/ani13132167
+
+Crook, R. J. (2021). Behavioral and neurophysiological evidence suggests affective pain experience in octopus. *iScience, 24*(3), 102229. https://doi.org/10.1016/j.isci.2021.102229
+
+Crook, R. J., Hanlon, R. T., & Walters, E. T. (2013). Squid have nociceptors that display widespread long-term sensitization and spontaneous activity after bodily injury. *The Journal of Neuroscience, 33*(24), 10021–10026. https://doi.org/10.1523/JNEUROSCI.0646-13.2013
+
+Crook, R. J., Lewis, T., Hanlon, R. T., & Walters, E. T. (2011). Peripheral injury induces long-term sensitization of defensive responses to visual and tactile stimuli in the squid *Loligo pealeii*, Lesueur 1821. *Journal of Experimental Biology*. https://doi.org/10.1242/jeb.058131
+
 Emanuel, A., & Eldar, E. (2023). Emotions as computations. *Neuroscience & Biobehavioral Reviews, 144*, 104977. https://doi.org/10.1016/j.neubiorev.2022.104977
+
+Mendl, M., Burman, O. H. P., & Paul, E. S. (2010). An integrative and functional framework for the study of animal emotion and mood. *Proceedings of the Royal Society B: Biological Sciences, 277*(1696), 2895–2904. https://doi.org/10.1098/rspb.2010.0303
+
+Mendl, M., Neville, V., & Paul, E. S. (2022). Bridging the gap: Human emotions and animal emotions. *Affective Science, 3*, 703–712. https://doi.org/10.1007/s42761-022-00125-6
 
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review, 83*(4), 435–450. https://doi.org/10.2307/2183914
 
-Picard, R. W. (2003). Affective computing: Challenges. *International Journal of Human-Computer Studies.* https://www.media.mit.edu/publications/affective-computing-challenges/
+Paul, E. S., & Mendl, M. T. (2018). Animal emotion: Descriptive and prescriptive definitions and their implications for a comparative perspective. *Applied Animal Behaviour Science, 205*, 202–209. https://doi.org/10.1016/j.applanim.2018.01.008
+
+Paul, E. S., & Mendl, M. T. (2025). Tackling challenges in the study of animal emotions: A review. *Cognition and Emotion, 39*(6), 1190–1209. https://doi.org/10.1080/02699931.2025.2534728
+
+Picard, R. W. (1997). *Affective Computing*. MIT Press. https://mitpress.mit.edu/9780262661157/affective-computing/ (linked edition: 2000 paperback)
 
 Scherer, K. R. (2005). What are emotions? And how can they be measured? *Social Science Information, 44*(4), 695–729. https://doi.org/10.1177/0539018405058216
 
+Schnell, A. K., Browning, H., Crump, A., Burn, C. C., & Birch, J. (2026). Sentience in cephalopod molluscs: An updated assessment. *Biological Reviews, 101*(3), 1311–1333. https://doi.org/10.1002/brv.70125
+
 Seth, A. K. (2025). Conscious artificial intelligence and biological naturalism. *Behavioral and Brain Sciences* (published online April 21, 2025). https://doi.org/10.1017/S0140525X25000032
+
+---
+
+**Scope note:** This work is a conceptual and interpretive proposal. Its conditional discussion of artificial emotional systems should not be read as a claim that current AI systems have subjective feelings or as a method for proving their existence.
